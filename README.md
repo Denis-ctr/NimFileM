@@ -20,7 +20,7 @@
 ### 🌟 Əsas Xüsusiyyətlər
 
 * **⚡ Sürət və Effektivlik:** Nim'in C/C++-a tərcümə qabiliyyəti sayəsində native sürətlə fayl əməliyyatları.
-* **🌍 Geniş Uyğunluq:** Windows, Linux və macOS daxil olmaqla əsas əməliyyat sistemlərində etibarlı işləmə.
+* **🌍 Geniş Uyğunluq:** Windows və Linux daxil olmaqla əsas əməliyyat sistemlərində etibarlı işləmə.
 
 ---
 
