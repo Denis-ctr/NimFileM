@@ -4,6 +4,7 @@
 Nim dili ilə hazırlanmış yüngül, sürətli və minimal fayl/qovluq idarəetmə utility'si.
 
 📝 Layihə Təsviri
+
 Bu layihə, Nim proqramlaşdırma dilinin performans və sadəliyindən istifadə edərək fayllarla və qovluqlarla işləmək üçün etibarlı və sürətli bir həll təmin edir.
 
 ✨ Əsas Xüsusiyyətlər
