@@ -19,21 +19,25 @@ Bu layihə, Nim proqramlaşdırma dilinin performans və sadəliyindən istifad�
 Bu layihəni işə salmaq və ya kodunuzda bir modul kimi istifadə etmək üçün aşağıdakılar tələb olunur:
 
 Tələblər
-Nim Tərtibatçısı: [Nim 2.2.6].
+
+Tələb,Versiya,Qeyd
+Nim Compiler,"Minimum 2.2.6",Nim dilinin tərtibatçısı olmalıdır.
+Nimble,Cari,Nim paket meneceri (Adətən Nim ilə birlikdə quraşdırılır).
 
 Quraşdırma
 
 Repozitoriyanı Klonlayın:
 
+--
 Bash
-
-git clone https://github.com/Denis-ctr/NimFileM.git
-cd NimFileM
+  -git clone https://github.com/Denis-ctr/NimFileM.git
+  -cd NimFileM
 Layihəni Build Edin:
-
+--
+--
 Bash
-
-nim c -r main.nim # Və ya layihənizin əsas fayl adı ilə əvəz edin
+  -nim c -r main.nim # Və ya layihənizin əsas fayl adı ilə əvəz edin
+--
 
 📄 Lisenziya
 Bu layihə MIT Lisenziyası altında lisenziyalanmışdır. Daha ətraflı məlumat üçün LICENSE faylına baxın.
