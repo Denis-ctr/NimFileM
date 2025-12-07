@@ -13,7 +13,6 @@ Bu layihə, Nim proqramlaşdırma dilinin performans və sadəliyindən istifad�
 
 🛠️ Minimal Asılılıqlar: Sadə və yığcam kod bazasına malikdir.
 
-[Əlavə Xüsusiyyəti Qeyd Edin (məsələn, Asan Yol Normalizasiyası)]
 
 🛠️ Quraşdırma Tələbləri
 Bu layihəni işə salmaq və ya kodunuzda bir modul kimi istifadə etmək üçün aşağıdakılar tələb olunur:
@@ -30,12 +29,14 @@ Repozitoriyanı Klonlayın:
 
 ####
 Bash
+
   -git clone https://github.com/Denis-ctr/NimFileM.git
   -cd NimFileM
 Layihəni Build Edin:
 
 
 Bash
+
   -nim c -r nimfm.nim 
 ####
 
