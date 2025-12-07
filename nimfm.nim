@@ -75,8 +75,7 @@ proc main() =
     
     case choice
     of "-l":
-      listFiles(currentPath)
-    
+      listFiles(currentPath)   
     of "cd":
       stdout.write("file name: ")
       stdout.flushFile()
