@@ -28,16 +28,16 @@ Quraşdırma
 
 Repozitoriyanı Klonlayın:
 
---
+####
 Bash
   -git clone https://github.com/Denis-ctr/NimFileM.git
   -cd NimFileM
 Layihəni Build Edin:
---
---
+
+
 Bash
-  -nim c -r main.nim # Və ya layihənizin əsas fayl adı ilə əvəz edin
---
+  -nim c -r nimfm.nim 
+####
 
 📄 Lisenziya
 Bu layihə MIT Lisenziyası altında lisenziyalanmışdır. Daha ətraflı məlumat üçün LICENSE faylına baxın.
