@@ -36,12 +36,6 @@ Layihədən istifadə etməzdən və ya onu tərtib etməzdən əvvəl aşağıd
     >
     > *Nim'in rəsmi saytından (nim-lang.org) yükləyə bilərsiniz.*
 
-* ### **<ins>Nimble Paket Meneceri</ins>**
-
-    Paketi asanlıqla quraşdırmaq və asılılıqları idarə etmək üçün Nimble lazımdır.
-
-    > **Status:** Adətən $\text{Nim}$ quraşdırılarkən avtomatik gəlir.
-
 * ### **<ins>Git</ins>**
 
     Mənbə kodunu klonlamaq (endirmək) üçün istifadə olunur.
